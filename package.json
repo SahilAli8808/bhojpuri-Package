@@ -1,6 +1,6 @@
 {
   "name": "bhojpuriya-lang",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "this is a toy programming lagnugage in javascript",
   "main": "index.js",
   "scripts": {
